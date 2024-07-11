@@ -6,7 +6,7 @@ Este projeto é um jogo interativo desenvolvido com HTML, CSS e JavaScript. O ob
 
 Funcionalidades
 
-Geração de Número Secreto: O jogo gera um número secreto aleatório entre 1 e 30.
+Geração de Número Secreto: O jogo gera um número secreto aleatório entre 1 e 30.\n
 Verificação de Palpite: O jogador pode inserir um número e o jogo verifica se está correto, fornecendo feedback.
 Reinicialização do Jogo: O jogo pode ser reiniciado a qualquer momento, gerando um novo número secreto.
 Áudio Feedback: O jogo usa a biblioteca ResponsiveVoice para fornecer feedback de áudio ao jogador.
